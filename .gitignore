@@ -1,3 +1,6 @@
+# General IDE Settings
+.DS_Store
+
 # IDE settings in RStudio
 .Rproj.user
 .Rhistory
