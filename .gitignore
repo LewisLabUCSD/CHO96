@@ -9,3 +9,9 @@
 # Protein Features machine learning modeling outputs
 ProteinFeatures/Output/modelList_classification_descriptive.RDS
 ProteinFeatures/Output/modelList_regression_descriptive_microgram.RDS
+
+# Input file to run CellFie
+CHO96_RNAseq/runCellFie/Input/CHO96.countData.xlsx
+
+# Input STRING PPI to run network analysis
+CHO96_RNAseq/Data/STRING_Ideker.RDS
