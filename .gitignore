@@ -1,0 +1,5 @@
+# IDE settings in RStudio
+.Rproj.user
+.Rhistory
+.RData
+
