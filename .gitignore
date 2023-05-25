@@ -3,3 +3,6 @@
 .Rhistory
 .RData
 
+# Protein Features machine learning modeling outputs
+ProteinFeatures/Output/modelList_classification_descriptive.RDS
+ProteinFeatures/Output/modelList_regression_descriptive_microgram.RDS
