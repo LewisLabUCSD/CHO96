@@ -6,3 +6,8 @@ This repo contains the data and code  to accompany [Deciphering the determinants
 
 * Protein feature analysis and associated data [ProteinFeatures](/ProteinFeatures)
 * Transcriptomic analysis of the 96 RNA-Seq samples and associated data [CHO96_RNAseq](/CHO96_RNAseq)
+
+### Datasets
+
+The ML output are hosted at: [https://www.kaggle.com/datasets/helenmasson/cho96proteinyieldmodeloutputs](https://www.kaggle.com/datasets/helenmasson/cho96proteinyieldmodeloutputs)
+
